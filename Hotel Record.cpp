@@ -252,11 +252,11 @@ main()
      cout<<"\t\t_______________________________________ ";
      cout<<"\n\t\t1.Press 1 to book a room              ";
      cout<<"\n\t\t2.Press 2 to view all rooms status    ";
-     cout<<"\n\t\t3.Press 4 to view customer information";
-     cout<<"\n\t\t4.Press 5 to edit the data            ";
-     cout<<"\n\t\t5.Press 6 to leave the room           ";
-     cout<<"\n\t\t6.Enter 7 to view old record          ";
-     cout<<"\n\t\t7.Enter 8 to change password          ";
+     cout<<"\n\t\t3.Press 3 to view customer information";
+     cout<<"\n\t\t4.Press 4 to edit the data            ";
+     cout<<"\n\t\t5.Press 5 to leave the room           ";
+     cout<<"\n\t\t6.Enter 6 to view old record          ";
+     cout<<"\n\t\t7.Enter 7 to change password          ";
      cout<<"\n\t\t8.Enter 0 to exit                     ";
      cout<<"\n\t\t______________________________________";
      cout<<"\nSelect your choice                    ";
